@@ -11,7 +11,7 @@
     "ext-readline": "*"
   },
   "require-dev": {
-    "phpunit/phpunit": "ˆ9.0",
+    "phpunit/phpunit": "^9.0",
     "pestphp/pest": "^1.0",
     "friendsofphp/php-cs-fixer": "^2.16"
   }
