@@ -1,0 +1,18 @@
+{
+  "name": "Study-App-Cli-PHP",
+  "description": "Just a Miniclic-based study library",
+  "autoload": {
+    "psr-4": {
+      "StudyCli\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=7.3",
+    "ext-readline": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "ˆ9.0",
+    "pestphp/pest": "^1.0",
+    "friendsofphp/php-cs-fixer": "^2.16"
+  }
+}
